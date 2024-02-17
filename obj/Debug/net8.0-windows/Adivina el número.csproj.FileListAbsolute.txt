@@ -1,0 +1,20 @@
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\bin\Debug\net8.0-windows\Adivina el número.exe
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\bin\Debug\net8.0-windows\Adivina el número.deps.json
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\bin\Debug\net8.0-windows\Adivina el número.runtimeconfig.json
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\bin\Debug\net8.0-windows\Adivina el número.dll
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\bin\Debug\net8.0-windows\Adivina el número.pdb
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina_el_número.Properties.Resources.resources
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina_el_número.ReadMyMind.resources
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.AssemblyInfoInputs.cache
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.AssemblyInfo.cs
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.sourcelink.json
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.dll
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\refint\Adivina el número.dll
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.pdb
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina el número.genruntimeconfig.cache
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\ref\Adivina el número.dll
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina_el_número.FrmLoader.resources
+C:\Users\Elias\source\repos\Adivina el Numero\Adivina el número\obj\Debug\net8.0-windows\Adivina_el_número.FrmAnswer.resources
